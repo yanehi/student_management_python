@@ -1,0 +1,17 @@
+language: python
+python:
+  - "3.6"      # current default Python on Travis CI
+# command to install dependencies
+install:
+  - pip3 install -r requirements.txt
+# command to run tests
+jobs:
+  include:
+    - stage: "Tests"                # naming the Tests stage
+      name: "Unit Tests"            # names the first Tests stage job
+      script: pytest
+    - stage: "Build"                # naming the Tests stage
+      name: "Run programm"          # names the first Tests stage job
+      script: python3 main.py
+after_success:
+  - coveralls
