@@ -1,0 +1,501 @@
+first_name;last_name;matriculation_number;language;term;average_grade;username;state;street_name;street_number
+Cléopatre;Rein;749000;Bengali;3;2;fhexham0;Florida;Main;376
+Miléna;Baish;749001;Burmese;3;3;dweaving1;Alabama;Moland;38526
+Cloé;Phillimore;749002;Catalan;11;1;sslott2;Texas;Corben;384
+Léa;Cogdon;749003;Tajik;11;2;jstonman3;Texas;Dixon;295
+Michèle;Woodrooffe;749004;Danish;8;3;smourgue4;Minnesota;Killdeer;76925
+Gaëlle;Linneman;749005;German;5;3;hred5;Oklahoma;Victoria;30
+Solène;Dorton;749006;Māori;4;4;tbertram6;Texas;Division;9974
+Josée;Vanini;749007;Sotho;3;1;ncoppins7;Tennessee;Roxbury;90
+Fèi;Maynell;749008;Thai;1;3;hvinden8;District of Columbia;Surrey;5
+Valérie;Fried;749009;Nepali;4;3;opeoples9;Texas;Moulton;261
+Mégane;Matei;749010;Korean;4;4;mdavydycheva;Arizona;Carpenter;713
+Bécassine;Deniskevich;749011;Malayalam;10;2;tmeechanb;Florida;Westend;80
+Gwenaëlle;Ciccerale;749012;Swedish;7;4;vkillwickc;Iowa;Hayes;4542
+Maï;Fattorini;749013;Greek;4;4;rbromaged;North Carolina;Browning;241
+Estève;Kite;749014;Burmese;11;1;ndavidsone;Texas;Annamark;7752
+Maëlle;Caw;749015;Albanian;7;2;sberrief;Florida;Oak Valley;8
+Dà;Fierman;749016;German;5;4;pkamenarg;Arizona;Corscot;24
+Marie-noël;Pawfoot;749017;Belarusian;9;2;mpeirsonh;New York;Nevada;2966
+Tán;Bagnall;749018;Dhivehi;8;3;esueteri;Texas;Carberry;0
+Rachèle;Hugh;749019;Arabic;11;3;jwillmotj;District of Columbia;Sunnyside;3
+Rébecca;Barcroft;749020;Irish Gaelic;6;1;jpennuzzik;Florida;Warner;5413
+Yénora;Huyge;749021;Guaraní;9;3;cbrunescol;Indiana;Hermina;26
+Yáo;Norheny;749022;Spanish;11;3;ocuttinm;Tennessee;Meadow Vale;0
+Bécassine;Leipnik;749023;Greek;3;2;aseniourn;Maryland;Karstens;968
+Lucrèce;Dearlove;749024;Kurdish;10;2;lmeenehano;Indiana;Upham;43
+Méthode;Heys;749025;Danish;9;2;rlanghornp;Tennessee;Summit;501
+Andréa;Deer;749026;Dhivehi;10;2;noshielq;Massachusetts;Muir;76
+Lauréna;Bossingham;749027;Aymara;7;2;jeverilr;Kansas;Aberg;874
+Marylène;Varlow;749028;Fijian;5;1;dsmallshaws;Minnesota;International;6374
+Jú;Ayscough;749029;Yiddish;6;1;lvalentinet;District of Columbia;Ryan;9
+Dorothée;Preedy;749030;Ndebele;8;1;csideryu;Arkansas;Norway Maple;8139
+Léana;Berrey;749031;Estonian;8;3;kfittallv;North Carolina;Norway Maple;67
+Chloé;Ferney;749032;Estonian;5;4;jcrasfordw;Washington;South;90481
+Alizée;Russel;749033;Telugu;6;2;clongmanx;Missouri;Michigan;20
+Amélie;Doeg;749034;Japanese;3;1;fdeniskey;Florida;Old Gate;65460
+Nuó;Yorke;749035;Portuguese;7;3;mmoorrudz;Massachusetts;Forest;5
+Kallisté;O'Griffin;749036;Gagauz;5;2;tstringer10;Maryland;Schiller;421
+Görel;Stoddard;749037;Bengali;11;2;hnunnery11;Texas;Cottonwood;56588
+Agnès;Von Der Empten;749038;Hindi;8;4;bmacdearmid12;Georgia;Hovde;39576
+Mårten;Priscott;749039;Czech;5;3;ldwine13;California;Esch;113
+Maïwenn;Dehmel;749040;Oriya;2;4;gstarrs14;Texas;Walton;85
+Andréanne;O'Quin;749041;Catalan;3;4;atreacy15;California;Esch;346
+Personnalisée;Deverson;749042;Dhivehi;9;3;sash16;Delaware;Namekagon;81
+Séverine;Longmore;749043;Korean;6;3;ftitmus17;Virginia;Atwood;24
+Nélie;Smorthit;749044;Georgian;3;1;bfrascone18;Maryland;Moland;4
+Wá;Buddle;749045;Greek;11;3;smackibbon19;Texas;Eagan;224
+Gisèle;Cattini;749046;Tetum;5;1;lterry1a;California;Artisan;4
+Adélaïde;Luney;749047;Finnish;1;3;bferrero1b;Alaska;Basil;707
+Kuí;Pickersgill;749048;Japanese;6;1;epryer1c;Oklahoma;Garrison;929
+Mélinda;Faustian;749049;Malagasy;4;2;jgouly1d;Missouri;Butternut;45
+Dù;Brine;749050;Amharic;9;1;jstoter1e;Tennessee;Esker;33
+Véronique;Farndon;749051;Dutch;4;1;sparagreen1f;Indiana;Esker;3
+Maëly;Bettinson;749052;Māori;3;1;plivesey1g;Texas;Fremont;54
+Léa;Oakenford;749053;Spanish;10;4;fethelston1h;Iowa;Bashford;977
+Alizée;Tansly;749054;Tsonga;9;4;mcullingworth1i;New York;Harbort;6
+Cloé;Brassill;749055;Kazakh;6;1;ganniwell1j;Texas;Anniversary;8396
+Stéphanie;Meeron;749056;Assamese;11;4;jpalin1k;Michigan;Steensland;4
+Kù;Silkston;749057;Italian;3;4;bpowderham1l;New York;Grayhawk;60
+Mélodie;Rockliffe;749058;Kyrgyz;4;3;jbonniface1m;District of Columbia;Roxbury;65
+Sòng;Temblett;749059;Montenegrin;1;3;rpidgen1n;North Carolina;Packers;36686
+Lucrèce;Clearie;749060;Dutch;8;2;tduffett1o;Virginia;Oakridge;8
+Clémence;Dreghorn;749061;Hungarian;6;2;cdignan1p;Texas;Schurz;5315
+Maëlla;Turneaux;749062;Quechua;4;3;ydegoey1q;Illinois;Utah;81
+Cécilia;Winterscale;749063;Bengali;6;4;plilley1r;New Jersey;Dexter;2
+Håkan;Morefield;749064;New Zealand Sign Language;5;3;abarnes1s;Florida;Pankratz;15
+Bérénice;Ferrai;749065;Luxembourgish;4;1;fwahner1t;Arizona;Lawn;3
+Danièle;Locksley;749066;Armenian;10;3;jblunderfield1u;Missouri;Morning;85595
+Lài;Denzey;749067;Moldovan;7;4;rlazell1v;Texas;Bartillon;1
+Inès;L' Anglois;749068;Filipino;11;4;rmarcam1w;New Jersey;2nd;32308
+Méthode;Leavens;749069;Luxembourgish;5;4;skleinbaum1x;Ohio;Scofield;22
+Léana;Piele;749070;Dhivehi;1;3;fkeeney1y;California;Milwaukee;3
+Maëlla;Paolacci;749071;Dzongkha;11;2;gwestphal1z;Colorado;Haas;1
+Pélagie;Conen;749072;Sotho;6;4;cguyonnet20;Oklahoma;Carpenter;11
+Håkan;Nutbeem;749073;Dzongkha;2;3;pryton21;Florida;Kensington;92
+Märta;Epinoy;749074;Northern Sotho;2;3;gthursby22;Colorado;Cottonwood;73
+Illustrée;Edgington;749075;Hungarian;8;2;dlacky23;Virginia;Hooker;7693
+Ruì;Szymanek;749076;Aymara;4;3;dexley24;Kansas;Fallview;285
+Örjan;Koles;749077;Malayalam;4;4;sfincke25;California;Hansons;99048
+Zoé;Lisamore;749078;English;7;1;gord26;New Mexico;Dayton;37836
+Inès;Lage;749079;Hiri Motu;2;1;tmudd27;Florida;Pepper Wood;1989
+Simplifiés;Bulle;749080;Estonian;6;3;rpolet28;Virginia;Larry;2
+Intéressant;Stot;749081;German;1;4;mfaas29;California;Bartelt;59
+Kù;Hetterich;749082;West Frisian;7;1;mpatey2a;Alabama;Shoshone;46851
+Maïly;Blake;749083;Kyrgyz;6;3;erahl2b;Louisiana;Raven;3398
+Marie-françoise;Baud;749084;Quechua;9;4;dgurg2c;Florida;Upham;5
+Maï;Eykelhof;749085;Albanian;7;3;jhuglin2d;New York;Northland;623
+Médiamass;Huison;749086;Amharic;11;1;tpapachristophorou2e;Washington;Welch;4246
+Laïla;Baudoux;749087;Quechua;1;1;lflattman2f;Texas;Moulton;739
+Camélia;Puttergill;749088;Gujarati;2;2;htotterdell2g;Illinois;Ridgeview;4
+Méryl;Nucciotti;749089;Portuguese;6;1;rcalvey2h;Michigan;Mockingbird;115
+Lauréna;Trace;749090;Gagauz;10;2;merridge2i;Michigan;Vidon;1977
+Maëlann;Mockett;749091;Indonesian;2;2;tangless2j;Arizona;Straubel;5784
+Maïwenn;Van den Velden;749092;Tajik;7;3;cskinn2k;Wisconsin;Erie;91
+Ruò;Rymmer;749093;Georgian;8;4;fjeavon2l;California;Old Shore;72288
+Mà;Banishevitz;749094;Filipino;11;3;hsettle2m;Connecticut;David;16
+Andréa;Tobias;749095;Icelandic;3;4;rchurchlow2n;New York;Crescent Oaks;3327
+Mylène;Reyne;749096;Maltese;10;1;ahearnshaw2o;Washington;Westridge;8662
+Marie-noël;Marchant;749097;Dhivehi;11;4;ejervoise2p;Washington;Stuart;3
+Mélanie;Lesaunier;749098;Korean;11;3;sburth2q;Utah;Jana;66
+Céline;Hindenberger;749099;Portuguese;8;2;cingerith2r;Arizona;Maple Wood;5174
+Salomé;Pichmann;749100;Polish;1;1;ababbs2s;Colorado;Mallard;92748
+Andréa;Rushforth;749101;Bosnian;9;4;jchitty2t;Louisiana;Arrowood;563
+Salomé;Pedrollo;749102;Chinese;3;4;jvuittet2u;Florida;Browning;26928
+Renée;Hebblewhite;749103;Tsonga;7;3;lkloser2v;New York;Independence;89
+Léa;Chesnut;749104;Dari;3;4;cdavidoff2w;North Carolina;Schiller;6
+Örjan;Jerdan;749105;Arabic;7;1;rmennithorp2x;California;Forest Dale;8016
+Irène;covino;749106;Kurdish;2;4;cmoralas2y;North Carolina;Crownhardt;678
+Esbjörn;Stokes;749107;Tsonga;7;2;vhayesman2z;New Hampshire;Grim;421
+Stévina;Drought;749108;Bislama;5;3;msaltrese30;South Carolina;Beilfuss;989
+Ruì;Leythley;749109;Telugu;1;4;gbonsey31;New York;Starling;7470
+Maëlys;Ledstone;749110;Gujarati;10;3;jcuppleditch32;Texas;Monica;969
+Rébecca;Toulson;749111;Yiddish;11;3;imckleod33;Michigan;Sauthoff;3932
+Intéressant;Yea;749112;New Zealand Sign Language;6;1;ldanilchev34;North Dakota;Comanche;493
+Marlène;Fincham;749113;English;5;2;gteml35;Texas;Moose;77233
+Garçon;Lowcock;749114;Estonian;10;3;rmarie36;Pennsylvania;Village Green;51504
+Mahélie;Mabey;749115;Georgian;4;3;njennins37;Ohio;Bartillon;5
+Östen;Kingsland;749116;Czech;2;3;mrosell38;Connecticut;Acker;22431
+Mårten;Holburn;749117;Tok Pisin;9;3;ledelmann39;South Carolina;Shelley;77773
+Måns;Latey;749118;Tamil;6;1;ppucker3a;Florida;Anthes;56
+Mahélie;Lezemore;749119;New Zealand Sign Language;11;3;begginton3b;Virginia;Cody;89
+Almérinda;Tyrwhitt;749120;Fijian;2;1;hmoncreiffe3c;Florida;Crescent Oaks;30524
+Östen;Cess;749121;Burmese;11;2;jamor3d;Pennsylvania;Steensland;45124
+Gérald;Corser;749122;Filipino;9;2;slaborda3e;Florida;Westport;20133
+Séréna;Gytesham;749123;German;6;4;lburne3f;California;Delladonna;6816
+Annotés;Joire;749124;Kazakh;4;1;fplank3g;Illinois;Eastwood;7
+Örjan;Botley;749125;Tamil;7;3;rdronsfield3h;New York;4th;36164
+Göran;McGiff;749126;Swati;3;2;cterlinden3i;California;Mosinee;95323
+Ruò;Gunton;749127;Lithuanian;4;1;gflieg3j;California;Sunbrook;81849
+Uò;Carefull;749128;Tetum;2;3;bsimper3k;Texas;Anthes;4992
+Yú;Gladdish;749129;Tswana;2;4;rkordas3l;Oregon;Laurel;93686
+Salomé;Sallery;749130;Thai;5;2;gcrombie3m;Missouri;Gateway;13944
+Anaïs;Rosenkranc;749131;Gagauz;8;2;pcattow3n;Georgia;Toban;59160
+Tán;Tyer;749132;Tetum;8;1;aetteridge3o;Michigan;Division;6
+Eloïse;Zanelli;749133;Korean;1;3;jcovendon3p;Missouri;Esch;5923
+Méghane;Pieche;749134;Khmer;1;4;mmaslin3q;California;Debra;9
+Vénus;Ashall;749135;Tetum;2;2;gsaxton3r;Alabama;Melrose;0
+Angélique;Tidder;749136;Kyrgyz;5;1;ckeets3s;New York;Lakewood Gardens;7808
+Maéna;Yven;749137;Romanian;8;2;bcarbine3t;New York;Arrowood;188
+Görel;Bosch;749138;Maltese;2;1;schavez3u;Wisconsin;Melrose;58
+Chloé;Trousdale;749139;Chinese;1;2;dmcparlin3v;Florida;Sundown;793
+Kuí;Campos;749140;Dhivehi;6;4;ljadczak3w;Florida;Lunder;513
+Ruì;Gudyer;749141;Pashto;3;3;nborkin3x;California;Vera;3
+Naéva;Kolczynski;749142;Tok Pisin;4;1;ehaverson3y;Florida;Springview;0
+Noëlla;Goldring;749143;Polish;5;3;rbogaert3z;District of Columbia;Briar Crest;7
+Östen;Boase;749144;Papiamento;7;2;mellse40;Florida;Holy Cross;9705
+Athéna;Medling;749145;Icelandic;10;3;mdecruce41;Nebraska;Memorial;9378
+Maëly;Schulz;749146;Tetum;10;4;bscowcroft42;Texas;Lerdahl;60
+Laurène;Kornas;749147;Swahili;11;1;mbrettel43;New York;Kropf;57
+Maéna;Blasius;749148;Korean;4;1;hmougin44;New York;Sunnyside;5828
+Naëlle;Pead;749149;Irish Gaelic;10;4;tyegoshin45;Florida;Mosinee;29
+Thérèsa;McCosh;749150;Lithuanian;1;4;ajoselovitch46;Minnesota;Valley Edge;8
+Ophélie;Fould;749151;Sotho;5;3;dobin47;Texas;Hooker;6
+Torbjörn;Andreasen;749152;Swahili;6;2;phariot48;Missouri;Forest Run;816
+Mén;Armitage;749153;Estonian;4;3;jburkill49;Wisconsin;Roth;940
+Maëlys;Gergolet;749154;West Frisian;6;1;pburgise4a;Texas;Service;67
+Vérane;Birkinshaw;749155;Macedonian;4;3;kcurton4b;District of Columbia;Chinook;5563
+Geneviève;Opdenorth;749156;Tswana;1;1;yfilpi4c;California;Summit;1
+Almérinda;Blues;749157;Thai;6;1;cconnick4d;Colorado;Esker;2663
+Wá;Kinch;749158;Azeri;5;4;jparoni4e;Florida;Mendota;1403
+Yóu;Legge;749159;Polish;1;3;dwant4f;Pennsylvania;Schurz;423
+Ruì;Pavic;749160;Hiri Motu;9;1;ljuden4g;California;Stone Corner;229
+Salomé;Berntssen;749161;Somali;7;2;edannohl4h;California;Warbler;1
+Régine;Drakeley;749162;Georgian;7;3;ppaddingdon4i;Nevada;Maryland;7504
+Zhì;Betun;749163;Pashto;8;2;mmckeggie4j;Texas;Hayes;99103
+Almérinda;Beattie;749164;Bislama;3;2;rferrino4k;California;Trailsway;0
+Marie-thérèse;Dadds;749165;Tamil;5;2;fdommersen4l;Florida;Harper;146
+Michèle;Elwin;749166;Swati;5;4;mbartley4m;New Mexico;Clemons;3601
+Athéna;Plumptre;749167;Tsonga;10;4;pkillik4n;Michigan;Nevada;14541
+Marie-noël;Eliassen;749168;Swedish;4;2;copdenort4o;Ohio;Sunnyside;138
+Béatrice;Korpal;749169;Macedonian;1;4;pscotchbourouge4p;Florida;Kings;66
+Félicie;Oxbe;749170;Lao;11;4;jlawie4q;Michigan;Pearson;10900
+Intéressant;Proschek;749171;Portuguese;11;4;rsouthers4r;Georgia;Anderson;53
+Maëlys;Meddemmen;749172;Croatian;10;2;wantonat4s;Ohio;Buena Vista;89691
+Agnès;Mewha;749173;Portuguese;10;4;gbaribal4t;California;Judy;2650
+Mélia;Quail;749174;Portuguese;1;3;phadden4u;Connecticut;Daystar;0
+Angélique;Baldrick;749175;Chinese;9;4;jallom4v;Missouri;Almo;8089
+Gérald;Crawford;749176;Dutch;9;2;lovery4w;Illinois;Summer Ridge;1249
+Cléopatre;Bisatt;749177;Indonesian;1;2;jwinder4x;Ohio;Lawn;4541
+Maëly;Honnicott;749178;Chinese;5;2;ibaselio4y;Ohio;Chinook;919
+Ráo;Tees;749179;Bulgarian;4;1;afreer4z;Minnesota;Iowa;77
+Audréanne;Saxton;749180;Telugu;1;2;atrott50;Texas;Jenifer;85
+Almérinda;Massimo;749181;Quechua;8;3;dskerratt51;Oklahoma;Dahle;63206
+Angélique;Juschka;749182;Papiamento;5;2;ashaxby52;New York;Debs;17
+Mahélie;Hacquoil;749183;Tok Pisin;7;2;mhartle53;Kentucky;Prairie Rose;114
+Gösta;Davidoff;749184;Guaraní;11;4;kshasnan54;District of Columbia;Ilene;455
+Alizée;Collecott;749185;Amharic;1;2;crowantree55;California;Hallows;784
+Andréa;Tammadge;749186;Greek;4;1;byurygyn56;New Mexico;Troy;38601
+Aí;Frere;749187;Swahili;4;1;dgorriessen57;New York;2nd;33140
+Annotés;Wiltshear;749188;Pashto;5;3;cmaffia58;Florida;Mariners Cove;6
+Annotée;Whittet;749189;French;2;2;thacquard59;Georgia;Emmet;5
+Camélia;Bulled;749190;Hindi;6;3;dpringer5a;Missouri;Hovde;30
+Noémie;Grishelyov;749191;Oriya;4;3;eeyers5b;California;Havey;1
+Cinéma;Janku;749192;Czech;10;3;rflanders5c;Tennessee;Judy;9
+Erwéi;Bardwell;749193;Telugu;9;3;alewzey5d;New York;Twin Pines;2680
+Publicité;Butting;749194;Croatian;2;3;dspeek5e;Oklahoma;Carioca;28545
+Liè;Naisbitt;749195;Aymara;2;4;hhundley5f;New York;Anzinger;2
+Lèi;Shawcross;749196;Papiamento;8;1;tsturr5g;California;Twin Pines;85
+Ophélie;Noli;749197;Swati;4;3;pmargiotta5h;Arizona;Stang;2
+Lóng;Farnell;749198;French;10;1;gmaryet5i;Wisconsin;Kensington;5555
+Dafnée;Febre;749199;Amharic;7;4;kwale5j;Florida;Hanover;49
+Stévina;Labrom;749200;Sotho;11;1;erapinett5k;Virginia;Bayside;91
+Michèle;Belward;749201;Icelandic;3;4;ehendrik5l;Colorado;Fairfield;9
+Edmée;Dunckley;749202;Khmer;11;3;myurmanovev5m;Florida;Main;89333
+Réjane;Threadgall;749203;Irish Gaelic;7;3;rsteel5n;Oklahoma;Tennessee;37
+Miléna;Scrivner;749204;Tamil;11;4;mbowcher5o;Minnesota;Jana;41
+Adélie;Pollicatt;749205;Gagauz;3;3;gtaill5p;Washington;Derek;2
+Jú;Mackness;749206;Swahili;3;3;pbozier5q;Illinois;Heath;4
+Göran;Wanless;749207;Papiamento;3;3;mlethcoe5r;Washington;Green;921
+Kuí;Chipps;749208;Arabic;4;3;ivolkers5s;California;Warrior;0
+Françoise;Stedell;749209;Luxembourgish;8;2;jandrolli5t;Georgia;Annamark;99997
+Loïc;Cobbe;749210;Hiri Motu;11;1;lcurme5u;Ohio;Waxwing;71
+Yóu;Tuvey;749211;Dari;10;2;gmellanby5v;Texas;Dawn;43025
+Vénus;Ivanyukov;749212;Khmer;4;4;pveneur5w;Texas;Northland;12
+Åslög;Bonus;749213;Hiri Motu;6;2;sshay5x;Utah;Thompson;88
+Crééz;Bairstow;749214;Assamese;9;1;bjenk5y;Virginia;Fisk;212
+Océane;Duggon;749215;Japanese;1;2;cfogden5z;Florida;Aberg;418
+Loïca;Berends;749216;Persian;4;3;growdell60;Texas;Stephen;4879
+Örjan;Yonnie;749217;Aymara;8;1;iblomfield61;Massachusetts;Boyd;64524
+Léonore;Breed;749218;Marathi;3;3;ggordon62;Ohio;Erie;66
+Vénus;Colebeck;749219;Latvian;3;4;ekopfen63;Texas;Eagan;984
+Gwenaëlle;McElrea;749220;Ndebele;2;2;mlightman64;Ohio;Maple;70
+Joséphine;Sturzaker;749221;Dzongkha;6;2;othew65;Texas;Melvin;23
+Céline;Grigoli;749222;Romanian;9;4;hlochet66;Florida;Anthes;67
+Annotés;Bour;749223;Chinese;10;4;ccammoile67;Virginia;Forest Run;5
+Maëly;Armand;749224;Romanian;11;4;ahalliberton68;Alabama;Emmet;623
+Lén;Fullard;749225;Burmese;5;4;breolfo69;Virginia;Morrow;7
+Méthode;Cheng;749226;Gujarati;2;4;jshevlane6a;Pennsylvania;Montana;35
+Erwéi;McRory;749227;Malagasy;11;4;fgarza6b;Utah;Kingsford;44834
+Laïla;Headingham;749228;New Zealand Sign Language;7;2;ejefferd6c;Maryland;Lighthouse Bay;93224
+Bérengère;Shanklin;749229;Maltese;5;4;mwattinham6d;Oregon;Sugar;296
+Michèle;Gilfillan;749230;Malay;3;4;mmerida6e;Michigan;Reinke;77148
+Adèle;Grigoriev;749231;Oriya;1;2;fmcilwaine6f;West Virginia;Spohn;2
+Léone;Caplis;749232;Italian;3;2;bkirsch6g;Texas;Montana;35592
+Maëlann;Klees;749233;Yiddish;5;1;dpermain6h;California;Briar Crest;65466
+Fèi;Gainor;749234;Arabic;3;2;bwaymont6i;Georgia;Ludington;22849
+Eugénie;Humburton;749235;Chinese;7;2;rcooke6j;Alaska;Trailsway;3
+Léone;Ambrogiotti;749236;Gujarati;8;4;frevans6k;Indiana;Gale;854
+Eloïse;Clewarth;749237;Dari;11;3;jmeert6l;Arizona;Carey;81
+Gaëlle;Checkley;749238;Latvian;1;2;bmanz6m;Arizona;Di Loreto;849
+Cinéma;Froude;749239;Lithuanian;10;1;ileggon6n;Oklahoma;Arrowood;41
+Ophélie;O' Brian;749240;Zulu;1;3;ebarnewille6o;Colorado;Fair Oaks;27510
+Marie-thérèse;Wetton;749241;Yiddish;10;2;mannwyl6p;Massachusetts;Burrows;611
+Anaïs;Nangle;749242;Dutch;10;2;blammertz6q;Florida;Mandrake;196
+Anaël;Cund;749243;Czech;8;4;fhellewell6r;Washington;2nd;6
+Médiamass;Casa;749244;Armenian;8;4;cmalecky6s;California;Quincy;99
+Kévina;Taudevin;749245;Spanish;11;4;cwigginton6t;Minnesota;Hanover;4
+Vénus;Hildred;749246;Belarusian;2;4;wselvester6u;Florida;Cardinal;1
+Lyséa;Leake;749247;Chinese;5;3;rheddy6v;Ohio;Bartelt;449
+Lauréna;Gon;749248;Punjabi;7;3;asouthwell6w;Iowa;Dixon;75315
+Félicie;Corry;749249;Ndebele;10;4;clawtie6x;Illinois;Sundown;13
+Thérèsa;Yurkevich;749250;Kazakh;6;4;cdur6y;Alaska;Forest;980
+Illustrée;Balchen;749251;Aymara;2;1;thutsby6z;Louisiana;Service;94
+Camélia;Slaight;749252;Lao;9;3;apeckett70;California;Grayhawk;1
+Lorène;Jillings;749253;Georgian;4;2;gsuffe71;Florida;Clarendon;54
+Wá;Nelson;749254;Bulgarian;3;1;abroschke72;California;Mallory;66781
+Régine;Maidlow;749255;Kurdish;3;2;bmachostie73;Missouri;Westerfield;405
+Lèi;Foxton;749256;Lao;3;1;bcapener74;New York;Lillian;3
+Maëlla;Stanley;749257;Azeri;8;2;sspybey75;Georgia;Annamark;0
+Océanne;Peirazzi;749258;Hindi;4;1;doruane76;Virginia;Bobwhite;55
+Bénédicte;Bountiff;749259;Māori;7;1;irudland77;New York;Kinsman;959
+Lorène;Karolowski;749260;Romanian;4;2;hterrelly78;Tennessee;Debra;33
+Naéva;Hussell;749261;Azeri;1;3;ostoller79;Virginia;Columbus;52846
+Aloïs;Jerrems;749262;Hungarian;6;2;shendrich7a;California;Morningstar;84629
+Alizée;Dargue;749263;Irish Gaelic;11;4;odomico7b;Connecticut;Hovde;2
+Åke;Hallbord;749264;Bislama;6;2;kskotcher7c;Arizona;Buhler;16
+Marylène;Kleinsmuntz;749265;Montenegrin;3;1;wmartineau7d;Texas;Armistice;40
+Mén;Walcar;749266;Chinese;1;3;aduxbury7e;South Carolina;Thompson;8
+Léa;Kaaskooper;749267;Kurdish;3;1;ncastelin7f;Pennsylvania;Westend;52456
+Maëlle;Ballinghall;749268;Quechua;4;4;mguile7g;Missouri;Loeprich;78
+Kévina;Dumbrill;749269;Polish;10;3;wmines7h;California;Oneill;22428
+Maëlyss;Blaw;749270;Aymara;11;3;gdeeble7i;Pennsylvania;Service;573
+Méghane;Ucchino;749271;Gujarati;8;4;ddanigel7j;District of Columbia;Crownhardt;3059
+Jú;Tolson;749272;Hebrew;7;1;pvondrys7k;Hawaii;Boyd;70
+Bérengère;Paulack;749273;Norwegian;9;2;koffield7l;Ohio;Forest Run;663
+Maï;Nolin;749274;Latvian;3;2;egeleman7m;Minnesota;Miller;75049
+Marylène;Kleinberer;749275;Tok Pisin;5;4;bbritner7n;Illinois;Elmside;0
+Anaé;Sweedy;749276;Korean;3;1;mlaurencot7o;Pennsylvania;Gale;9
+Miléna;Yuille;749277;Hiri Motu;9;3;pvarnam7p;California;Mcbride;428
+Sélène;Robelet;749278;Bulgarian;8;4;gmaddrah7q;Michigan;Annamark;23
+Åslög;Savery;749279;Croatian;6;1;clowson7r;Florida;Rockefeller;2347
+Dù;Beartup;749280;Bosnian;11;3;mager7s;Texas;Aberg;800
+Valérie;Kyne;749281;Dzongkha;2;4;swethered7t;California;Waxwing;659
+Marie-hélène;Baulch;749282;Czech;9;4;kfinlator7u;Georgia;Arkansas;546
+Cinéma;McFeate;749283;Tswana;5;3;bledley7v;Texas;Prairieview;14
+Athéna;Trewinnard;749284;Assamese;11;2;dbarbosa7w;Ohio;Northport;97
+Marie-josée;Fuggles;749285;Hindi;9;4;epibworth7x;Ohio;Walton;69
+Mén;Willarton;749286;Amharic;11;1;lmulhall7y;Alabama;Sutherland;6826
+Séverine;Gourdon;749287;Finnish;8;1;sgodlip7z;North Carolina;Burning Wood;73
+Görel;Ailward;749288;Swedish;6;1;ocorck80;West Virginia;Mandrake;3
+Marie-ève;Houtbie;749289;Bengali;5;1;ghabershon81;Iowa;Drewry;791
+Agnès;Proback;749290;Hindi;2;2;adell82;Michigan;Mallard;3691
+Adélie;Sand;749291;Afrikaans;8;2;crosenberger83;Texas;Esch;8544
+Réjane;Fenix;749292;German;3;1;yfranzewitch84;California;Elka;98449
+Hélèna;Rowes;749293;Guaraní;11;1;cschafer85;Alabama;Pond;6
+Yè;Mouton;749294;Tetum;7;1;sboor86;North Carolina;Arapahoe;52
+Loïca;Pendreigh;749295;Malayalam;9;3;mannakin87;California;Myrtle;1221
+Agnès;Gaishson;749296;Dari;7;4;mdrejer88;Texas;International;332
+Börje;Siret;749297;Maltese;11;3;cdaubney89;Missouri;Becker;97125
+Lén;Halgarth;749298;Luxembourgish;6;1;afarenden8a;Virginia;Manley;7436
+Håkan;Joblin;749299;Kannada;10;4;dbuyers8b;Kentucky;Harper;765
+Yáo;Kike;749300;Italian;8;1;hvalentine8c;New York;Park Meadow;3594
+Yè;Campione;749301;Aymara;2;3;hpinnijar8d;New York;Butternut;272
+Jú;Govier;749302;Malayalam;1;3;dcorkett8e;Illinois;Truax;8
+Inès;Normandale;749303;Swati;4;2;okenaway8f;Massachusetts;Springview;3
+Marie-ève;Dincey;749304;Marathi;9;1;tscarbarrow8g;Nebraska;Merry;549
+Kuí;Orable;749305;Latvian;11;3;odwelly8h;New Jersey;Huxley;5
+Thérèse;Santacrole;749306;Azeri;9;1;vlafond8i;Maryland;Banding;38631
+Marie-josée;Boast;749307;Bislama;3;3;gocuolahan8j;Ohio;Mallard;1
+Daphnée;Caldron;749308;Somali;10;1;hbuncher8k;Texas;Valley Edge;846
+Léandre;Urlin;749309;Chinese;1;2;frossetti8l;Idaho;Annamark;4
+Mélina;Learoyd;749310;Filipino;10;1;lburrett8m;Florida;Pennsylvania;9
+Céline;Vink;749311;Japanese;3;3;ksnowman8n;California;Sommers;998
+Jú;Eggleton;749312;Bulgarian;10;1;bitzchaky8o;Missouri;Carberry;59935
+Bérengère;Armit;749313;Filipino;3;3;hczajkowski8p;Louisiana;Mayer;35641
+Mårten;Haylands;749314;Swati;11;2;sgoodall8q;California;Pearson;30
+Réjane;Friel;749315;Malagasy;8;2;awain8r;California;Debra;990
+Maéna;Treversh;749316;Ndebele;2;2;dsilverthorne8s;Texas;Kedzie;6
+Mélodie;Hourihan;749317;Armenian;11;2;aiacopo8t;California;Morningstar;964
+Pénélope;Draude;749318;Aymara;4;1;cgodwin8u;Kansas;Fair Oaks;89317
+Thérèsa;Cartman;749319;Khmer;2;3;rmontier8v;South Dakota;Elmside;6
+Alizée;O'Dreain;749320;Dutch;2;2;jkield8w;Illinois;Northland;1
+Edmée;Jailler;749321;Irish Gaelic;2;2;ktrenaman8x;Florida;Vidon;7
+Mélinda;Barney;749322;Quechua;1;2;egammidge8y;Georgia;Hallows;8504
+Bérangère;Carluccio;749323;Somali;11;3;gpawfoot8z;Texas;Oakridge;7385
+Loïc;Roubottom;749324;Kyrgyz;5;4;fthominga90;California;Sunnyside;77314
+Léane;Panketh;749325;Quechua;7;3;clissaman91;Virginia;Holmberg;859
+Maëly;Nuemann;749326;Afrikaans;10;2;ddevillier92;California;Fairfield;1
+Andrée;Roots;749327;Thai;1;1;mdello93;Maryland;Gulseth;8
+Anaël;Bartosiak;749328;Gujarati;10;2;lmackelworth94;Texas;Crest Line;52208
+Mélanie;Jann;749329;Lao;3;1;manthona95;Texas;Kensington;77
+Marie-françoise;Davitt;749330;Luxembourgish;2;2;llear96;Florida;Warbler;7
+Adèle;Sneezem;749331;German;5;3;lhutchason97;California;Upham;18
+Maëlla;Vile;749332;Guaraní;1;4;mrodell98;California;Tony;49643
+Adèle;Penrose;749333;Italian;9;2;cresdale99;California;Dexter;2
+Marie-françoise;Cotterel;749334;Tetum;10;4;nmcgorman9a;Nevada;Del Sol;70
+Léandre;Yurin;749335;Croatian;8;2;jtolcher9b;North Carolina;Petterle;510
+Örjan;Glyssanne;749336;Tswana;3;2;mvenditti9c;California;Luster;23
+Åsa;Sibthorpe;749337;Bislama;7;2;bfiddian9d;Louisiana;Ridgeview;47
+Angélique;Pedycan;749338;Hungarian;7;2;rblodgett9e;New York;Carpenter;558
+Personnalisée;Iceton;749339;Oriya;8;4;mhavvock9f;Florida;Banding;163
+Dà;Prichard;749340;Nepali;9;1;lpragnall9g;Indiana;Vernon;4824
+Salomé;Sivior;749341;Malay;9;2;dcambridge9h;Texas;Mosinee;5753
+Almérinda;Ordish;749342;Swahili;1;2;ayo9i;Pennsylvania;Linden;5729
+Mélina;Weepers;749343;Burmese;3;3;fdunkerk9j;California;Straubel;55
+Marylène;Urian;749344;New Zealand Sign Language;9;2;bschneider9k;North Carolina;Caliangt;81
+Eléa;Mitford;749345;Assamese;7;3;csukbhans9l;Texas;Hudson;170
+Réjane;Thame;749346;Polish;4;4;ctunuy9m;Florida;Hermina;61537
+Marlène;Wildblood;749347;Afrikaans;4;2;mtrevena9n;Washington;Blaine;217
+Anaé;Haston;749348;Swahili;6;1;gomullan9o;Texas;Gerald;91157
+Tú;Idwal Evans;749349;Czech;9;2;hspracklin9p;California;Village;4136
+Valérie;Richardes;749350;Moldovan;7;1;xonion9q;Alabama;Marcy;29083
+Cinéma;Gilmour;749351;Croatian;5;3;eleas9r;North Carolina;Esch;94157
+Ráo;Loud;749352;Portuguese;10;2;sraveau9s;Washington;North;50854
+Fèi;Swinden;749353;Indonesian;2;2;rsleite9t;California;Merchant;67
+Vérane;Jelleman;749354;Gagauz;6;4;ctreversh9u;New Jersey;Artisan;36278
+Maëlyss;Cainey;749355;Korean;2;1;breinisch9v;Colorado;Clarendon;3
+Vérane;Dahlbom;749356;Czech;4;2;omockler9w;Illinois;Mallard;7658
+Médiamass;Straw;749357;Italian;7;2;kkeizman9x;Ohio;Londonderry;30
+Desirée;Bennison;749358;Mongolian;10;3;aminchinton9y;Ohio;Hollow Ridge;13213
+Bénédicte;Southway;749359;French;1;1;ppenbarthy9z;Louisiana;Manufacturers;55218
+André;MacNeachtain;749360;Norwegian;10;3;ferrola0;Florida;John Wall;8
+Aurélie;Streetley;749361;Italian;9;3;adelaneya1;New York;Bartillon;65853
+Athéna;Polleye;749362;Tswana;5;2;esambellsa2;Mississippi;Algoma;17432
+Françoise;Goodinson;749363;Kashmiri;11;2;hbembricka3;Hawaii;Barnett;566
+Méthode;Gretton;749364;Dzongkha;9;1;lwolstencrofta4;Florida;Basil;77687
+Annotés;Izhakov;749365;Belarusian;5;1;jkohtlera5;Indiana;Bartelt;26
+Clémentine;Kirkhouse;749366;Romanian;7;2;ocovielloa6;Maryland;Prairieview;88
+Lyséa;Rowan;749367;Tsonga;11;4;tbarbaraa7;California;Ohio;5
+Annotée;O'Tierney;749368;Bengali;4;4;mkolesa8;Colorado;Westridge;958
+Maëlyss;MacAlpyne;749369;Guaraní;7;2;lselwynea9;Texas;Towne;1
+Marie-thérèse;Hawkswood;749370;Amharic;10;4;agwynnaa;Indiana;Glendale;7506
+Andrée;Rude;749371;Swahili;10;4;dsevernab;Texas;Ludington;15150
+Maëlyss;Gurko;749372;Gagauz;2;2;twickeyac;Texas;Londonderry;9
+Cléopatre;Jouhning;749373;Tamil;3;1;isabbatierad;Arizona;Delladonna;3
+Lài;Abrahamovitz;749374;Telugu;11;4;wgawthorpeae;Missouri;Mariners Cove;6778
+Fèi;Robelin;749375;Haitian Creole;5;3;jemansonaf;District of Columbia;Sheridan;99974
+Maëlyss;Comberbach;749376;Afrikaans;2;3;carmisteadag;California;Hanover;8
+Célestine;Goomes;749377;Czech;7;4;ngiraudeauah;California;Park Meadow;7
+Judicaël;Chidwick;749378;Tajik;1;2;rdrohunai;Texas;Raven;7539
+Inès;Sirl;749379;Gujarati;2;4;eantonoczykaj;Wisconsin;Carioca;39
+Göran;Acklands;749380;Amharic;2;1;rskillettak;California;Mosinee;57199
+Yú;Levett;749381;Catalan;8;4;bhumeal;California;Lukken;8440
+Maëline;Barbe;749382;Kurdish;11;3;ftoweram;Washington;Gerald;11
+Bérénice;Ranyard;749383;Bislama;8;4;eoshaughnessyan;Virginia;Jana;336
+Sélène;Keynd;749384;Bengali;9;2;vbythewayao;Kansas;Bashford;6975
+Maïté;Bowkett;749385;Pashto;5;1;emussilliap;Texas;Golden Leaf;25
+Kallisté;Kipping;749386;Guaraní;9;3;stoeaq;Nebraska;Victoria;2
+Desirée;Goulbourne;749387;Punjabi;6;4;steaserar;Florida;Caliangt;236
+Solène;Blackney;749388;Arabic;10;3;vhanleyas;California;Fordem;705
+Intéressant;Sperry;749389;Romanian;11;1;aallchornat;Michigan;Johnson;23822
+Marlène;Aujouanet;749390;Latvian;9;4;jtrittamau;Missouri;Quincy;85297
+Laurène;Geary;749391;Swedish;6;1;cemburyav;California;6th;7555
+Judicaël;Salmoni;749392;Chinese;8;1;adaberaw;Missouri;Packers;3
+Håkan;Reford;749393;Macedonian;1;3;sloghanax;District of Columbia;Crownhardt;30
+Bérénice;O'Gavin;749394;Oriya;5;2;emaloneay;Pennsylvania;Clarendon;385
+Gaëlle;Jancic;749395;Swedish;6;3;dsarvaraz;Virginia;Stoughton;239
+André;Coal;749396;Assamese;10;3;fflatleyb0;Colorado;Blackbird;146
+Dorothée;Galego;749397;Haitian Creole;10;3;mleelb1;Oklahoma;Ridgeview;5
+Pò;Cordoba;749398;Estonian;5;4;atrenchardb2;Pennsylvania;Autumn Leaf;635
+Thérèsa;Baynon;749399;Gagauz;3;4;fnoriegab3;Ohio;Quincy;9
+Gösta;Woodings;749400;Chinese;7;2;dcahanb4;District of Columbia;Cardinal;45
+Mélanie;Tregien;749401;Yiddish;2;1;acantopherb5;Texas;Melvin;6851
+Bérangère;Haggie;749402;Swahili;10;1;sjurschb6;California;Dovetail;891
+Mén;Sellwood;749403;Swahili;1;3;cdrinkelb7;North Carolina;Huxley;65
+Cunégonde;Tewes;749404;Romanian;11;2;sbailessb8;Indiana;Sundown;22544
+Camélia;Dines;749405;Japanese;5;3;spetrovskyb9;Oklahoma;Waywood;27
+Anaël;Nightingale;749406;Czech;6;4;cclorleyba;Texas;Messerschmidt;22717
+Cléa;Balcon;749407;Hebrew;7;3;eleddiebb;Washington;Emmet;804
+Vénus;Lethbrig;749408;Macedonian;7;3;rpetkovbc;Illinois;Cambridge;83
+Mélanie;Kirman;749409;Dari;9;2;llangebd;Florida;Melby;22
+Estée;Barthot;749410;Georgian;2;3;rbausbe;California;Paget;6
+Dorothée;Arundel;749411;Zulu;11;3;rturevillebf;Connecticut;Pawling;129
+Åsa;Waye;749412;Yiddish;8;2;tsmithambg;District of Columbia;Lakewood;3160
+Táng;Pash;749413;Guaraní;3;3;ashoutbh;Georgia;Dayton;55
+Eliès;Tunder;749414;Guaraní;8;2;hbarnicottbi;Florida;Spaight;89
+Véronique;Robus;749415;Gujarati;5;1;bwatkissbj;South Carolina;Mccormick;75
+Noémie;Knibb;749416;Gagauz;11;3;pmarttbk;Mississippi;Mayer;57
+Médiamass;Dailey;749417;English;8;3;pdysonbl;Texas;Hauk;509
+Gösta;Rivilis;749418;Japanese;4;4;rspelmanbm;Texas;Arrowood;5
+Mén;Kiddle;749419;Azeri;5;4;cbeardonbn;Louisiana;South;546
+Océanne;Wallege;749420;Dzongkha;9;3;equantrellbo;District of Columbia;Kedzie;34
+Réjane;Bumpus;749421;Lao;7;3;eshirebp;North Carolina;International;1226
+Estève;Dunseath;749422;Dhivehi;8;4;njasikbq;Indiana;Tennyson;8392
+Méryl;Dismore;749423;Lao;2;4;sferdinandbr;New York;Donald;3140
+Cunégonde;Conradsen;749424;Kazakh;1;4;rbowsteadbs;Georgia;Southridge;683
+Chloé;Teffrey;749425;Latvian;4;2;wbaccasbt;Kansas;Anderson;10280
+Kallisté;Biggerdike;749426;Macedonian;9;3;yjunesbu;Washington;Schurz;6
+Uò;Cleator;749427;Malay;5;3;mperchardbv;District of Columbia;Mayfield;6925
+Kallisté;MacCosty;749428;Spanish;3;2;tguilloudbw;Florida;Lukken;966
+Gösta;Volcker;749429;Bengali;5;2;rjaumetbx;Florida;Raven;6272
+Léane;Wrigglesworth;749430;Macedonian;2;1;bfawdryby;Oregon;Reinke;677
+Maïlis;Baiyle;749431;Kannada;10;1;atrevanbz;Ohio;Lien;6
+Lyséa;Hatwell;749432;Māori;3;2;dpynnerc0;California;Northridge;57232
+Fèi;Southward;749433;Irish Gaelic;9;2;echicchellic1;Arkansas;Welch;0
+Annotée;Solon;749434;Papiamento;5;3;sgantzmanc2;Florida;Northwestern;12753
+Marlène;Atlee;749435;Yiddish;11;1;hklauberc3;Georgia;Schlimgen;1423
+Félicie;Booij;749436;Kyrgyz;8;1;mfidellic4;Colorado;Lake View;3
+Faîtes;Draper;749437;Montenegrin;6;4;dsmietonc5;New York;Havey;4958
+Lauréna;Garza;749438;German;7;1;akindleyc6;Kentucky;Bartillon;9
+Marie-hélène;Logie;749439;Mongolian;5;1;atwinboroughc7;Texas;Petterle;19205
+Célia;Conradie;749440;Hungarian;1;2;ttuplingc8;Florida;Kings;32056
+Daphnée;Littefair;749441;Dutch;6;3;adanforthc9;California;Hansons;83158
+Desirée;Poel;749442;Finnish;4;4;nruffleca;California;Myrtle;81765
+Réservés;Stoakley;749443;Indonesian;9;1;igonzalezcb;Oklahoma;South;77649
+Mégane;Dodgson;749444;French;4;2;gkenneacc;Nebraska;Mesta;130
+Annotée;Dikels;749445;Polish;5;1;nelvycd;Illinois;Memorial;707
+Maïté;Pidwell;749446;Estonian;4;4;bactonce;Arkansas;Magdeline;327
+Amélie;Sanbrooke;749447;Estonian;10;3;jvlasyukcf;District of Columbia;Monterey;6790
+Naëlle;Cornell;749448;New Zealand Sign Language;10;3;bserviscg;North Dakota;Springview;844
+Ruò;Antonsen;749449;Tajik;10;2;akalderonch;Michigan;Kennedy;440
+Almérinda;Flooks;749450;Gujarati;3;3;dcrooksci;Kansas;Westridge;5
+Zoé;Telfer;749451;Kashmiri;4;1;smingardicj;Georgia;Browning;99
+Bérangère;Klagges;749452;Thai;3;4;jwhalebellyck;Utah;Holy Cross;2771
+Mahélie;Risbridge;749453;Amharic;9;3;sclapstoncl;New York;Almo;67
+Annotés;Vitet;749454;Kazakh;10;3;jakenheadcm;North Carolina;Merrick;6165
+Félicie;Binnall;749455;Dutch;5;3;klonsbroughcn;New York;Blaine;5375
+Maëlle;Ullett;749456;Italian;6;4;rlaiteco;Colorado;Forest Run;171
+Vénus;Jindracek;749457;Ndebele;4;2;abuttlecp;California;Hallows;81
+Gaïa;Bode;749458;Somali;9;4;evaunecq;California;Debs;2
+Bécassine;Tringham;749459;Icelandic;1;4;dlemarquandcr;New York;Messerschmidt;5085
+Maëlys;Ensor;749460;Azeri;1;1;ccovilcs;Ohio;Kipling;1511
+Tú;Vagges;749461;Romanian;6;1;ebeedellct;Washington;Hooker;809
+Méghane;Pickworth;749462;Belarusian;1;3;wyarhamcu;Illinois;Spohn;5481
+Mélys;Jzhakov;749463;Czech;11;4;ldarquecv;Michigan;Golf View;95649
+Marie-noël;Romero;749464;Hebrew;4;1;gbrattoncw;Pennsylvania;Northport;28609
+Anaël;Bowland;749465;Tajik;8;4;bnewlincx;Hawaii;Oneill;8035
+Fèi;Leipnik;749466;Hungarian;11;4;lloomiscy;North Carolina;Columbus;860
+Noémie;Fincher;749467;Khmer;10;3;wbirdwhistlecz;Texas;Larry;65
+Naéva;Scrivenor;749468;Armenian;4;4;jgilcristd0;Florida;Moulton;0
+Håkan;Wormald;749469;Romanian;8;2;pharvied1;Wisconsin;Weeping Birch;98
+Lóng;Eisold;749470;Irish Gaelic;9;1;lcuerdalld2;Florida;Marcy;9
+Alizée;Stafford;749471;Punjabi;1;1;delsmored3;New York;Jay;1
+Rébecca;Yankin;749472;Malagasy;9;1;cforesightd4;Texas;Lakewood Gardens;1119
+Yè;Stanbridge;749473;Swati;2;4;uebbittd5;Maryland;Sheridan;143
+Maïly;Sheircliffe;749474;Arabic;10;1;bbendelowd6;California;Hauk;7160
+Björn;Larmour;749475;Swedish;3;3;tcartmeld7;District of Columbia;Colorado;77
+Géraldine;Musselwhite;749476;Tamil;5;2;mcheckleyd8;Nebraska;Heath;232
+Judicaël;Bucknell;749477;Fijian;6;3;ascalesd9;California;Northfield;2745
+Mélodie;Padefield;749478;Haitian Creole;2;3;rslattenda;Florida;Express;9112
+Léana;Olanda;749479;Azeri;7;2;hjardinedb;California;Atwood;7
+Clélia;Danko;749480;Hungarian;11;2;hsolmandc;Indiana;Maywood;979
+Zoé;Rusk;749481;Irish Gaelic;11;4;mbustdd;Florida;Shasta;6399
+Yè;Castiglioni;749482;Punjabi;9;2;bpurseglovede;Arizona;Nancy;1396
+Ruì;Hallahan;749483;New Zealand Sign Language;4;4;nizachikdf;Ohio;Towne;5972
+Céline;Tomkowicz;749484;Dutch;2;4;sdufaurdg;District of Columbia;Mifflin;34
+Måns;Okie;749485;Croatian;9;4;cfurneauxdh;Oregon;Barnett;14
+Méline;Defrain;749486;Armenian;3;2;hgladstonedi;Colorado;Waubesa;69
+Stévina;Woodger;749487;Gujarati;4;3;jspieckdj;California;Jackson;2
+Marie-thérèse;Chilvers;749488;Kashmiri;6;1;enewdk;Tennessee;Sachtjen;16
+Görel;Spurgin;749489;Aymara;6;4;mcutmaredl;Wisconsin;Monterey;8
+Yénora;Gatheral;749490;Burmese;9;2;achsteneydm;Illinois;Dennis;131
+Lucrèce;Gawkes;749491;Tsonga;11;3;kcinavasdn;Virginia;Northview;8741
+Tú;Nixon;749492;Armenian;5;4;afeakdo;North Carolina;Commercial;5
+Michèle;Flisher;749493;Persian;5;3;bduthiedp;Indiana;Eliot;47
+Cunégonde;Gabler;749494;Kazakh;2;1;sclinchdq;California;Wayridge;37
+Loïc;Geroldini;749495;Afrikaans;2;3;kwilnedr;Tennessee;Upham;9
+Clémentine;Eilert;749496;Filipino;10;4;edommettds;Missouri;Fieldstone;4709
+Léonore;Wittleton;749497;Haitian Creole;8;4;gbisleydt;Massachusetts;Badeau;48
+Aloïs;Rizzardini;749498;Sotho;10;4;obrattendu;District of Columbia;Melrose;782
+Håkan;Tolerton;749499;Tamil;1;2;benzleydv;California;Schmedeman;286
