@@ -1,17 +1,47 @@
 from student.student import Student
 
+def read_csv(filename, open_mode):
+    counter = 0
+    first_name = ""
+    last_name = ""
+    matriculation_number = ""
+    language = ""
+    term = ""
+    average_grade = "" 
+    username = "" 
+    state = ""
+    street_name = ""
+    street_number = ""
+
+    students = []
+
+    try:
+        file = open(filename, "r")
+        
+        for line in file:
+            if counter != 0:
+                first_name = line.strip().split(";")[0]
+                last_name = line.strip().split(";")[1]
+                matriculation_number = line.strip().split(";")[2]
+                language = line.strip().split(";")[3]
+                term = line.strip().split(";")[4]
+                average_grade = line.strip().split(";")[5]
+                username = line.strip().split(";")[6]
+                state = line.strip().split(";")[7]
+                street_name = line.strip().split(";")[8]
+                street_number = line.strip().split(";")[9]
+                students.append((first_name, last_name, matriculation_number, language, term, average_grade, username, state, street_name, street_number))
+            counter += 1
+            
+    except FileNotFoundError:
+        print("File not found!")
+    
+    return students
+
 def main_menue():
 
-    p = Student("peter", "maffay")
-    
-    students = [
-    ("Max", "Meyer1"),
-    ("Peter", "Peters2"),
-    ("Max", "Meyer3"),
-    ("Peter", "Peters4"),
-    ("Max", "Meyer5"),
-    ("Peter", "Peters6"),
-    ]
+    s = Student("","","","","","","","","","")
+    student_list = read_csv("/home/yannic/git/student_management_python/data/sample_students.csv", "r")
     
     menue_point = ""
 
@@ -28,7 +58,7 @@ def main_menue():
         if menue_point == "1":
             print("---------------------")
             print("1) List students")
-            p.print_all_students(students)
+            s.print_all_students(student_list)
             print("---------------------")
         
         elif menue_point == "2":
