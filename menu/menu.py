@@ -33,15 +33,34 @@ def read_csv(filename, open_mode):
                 students.append((first_name, last_name, matriculation_number, language, term, average_grade, username, state, street_name, street_number))
             counter += 1
             
+        file.close()
+        
     except FileNotFoundError:
         print("File not found!")
     
     return students
 
+
+def write_csv(students, filename, mode):
+      
+    student_list = students
+      
+    try:
+        file = open(filename, mode)
+        file.write("first_name;last_name;matriculation_number;language;term;average_grade;username;state;street_name;street_number" + "\n")
+        for student in student_list:
+            file.write(student[0] + ";" + student[1]+ ";" + student[2]+ ";" + student[3]+ ";" + student[4]+ ";" + student[5]+ ";" + student[6]+ ";" + student[7]+ ";" + student[8]+ ";" + student[9] + "\n")
+            
+        file.close()
+        
+    except FileNotFoundError:
+        print("File not found!!")
+
 def main_menue():
 
     s = Student("","","","","","","","","","")
-    student_list = read_csv("/home/yannic/git/student_management_python/data/sample_students.csv", "r")
+    filename = "/home/yannic/git/student_management_python/data/sample_students.csv"
+    student_list = read_csv(filename, "r")
     
     menue_point = ""
 
@@ -72,6 +91,7 @@ def main_menue():
         
         elif menue_point == "0":
             print("0) Save and Quite")
+            write_csv(student_list,filename,"w")
         
         else:
             print("Invalid input!!")
