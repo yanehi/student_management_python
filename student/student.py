@@ -47,6 +47,28 @@ class Student():
         new_student = (first_name, last_name, matriculation_number, language, term, average_grade, username, state, street_name, street_number)
 
         return new_student
+    
+    def search_student(self, students, matriculation_number):
+        
+        found = False
+        student_firstname = ""
+        student_lastname = ""
+        index = 0
+        for student in students:
+            if matriculation_number == student[2]:
+                found = True
+                student_firstname = student[0]
+                student_lastname = student[1]
+                break
+            index = index +1
+        
+        if found == True:
+            print("Student: " + student_firstname + " " + student_lastname + " found on position " + str(index))
+        else:
+            print("Student not in list!")
+        
+        return index
+        
 
 # s = Student("","","","","","","","","","")
 # s.print_all_students(students)
