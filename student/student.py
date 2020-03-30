@@ -31,6 +31,22 @@ class Student():
         for student in students:
             self.print_student(student, counter)
             counter += 1
+    
+    def add_student(self):
+        first_name = input('Firstname: ')
+        last_name = input('Lastname: ')
+        matriculation_number = input('Matriculation Number: ')
+        language = input('Language: ')
+        term = input('Term: ')
+        average_grade = input('Average Grade: ')
+        username = input('Username: ')
+        state = input('State: ')
+        street_name = input('Street: ')
+        street_number = input('Nr: ')
+        
+        new_student = (first_name, last_name, matriculation_number, language, term, average_grade, username, state, street_name, street_number)
+
+        return new_student
 
 # s = Student("","","","","","","","","","")
 # s.print_all_students(students)

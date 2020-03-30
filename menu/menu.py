@@ -56,6 +56,7 @@ def write_csv(students, filename, mode):
     except FileNotFoundError:
         print("File not found!!")
 
+
 def main_menue():
 
     s = Student("","","","","","","","","","")
@@ -82,7 +83,10 @@ def main_menue():
         
         elif menue_point == "2":
             print("2) Add student.")
-        
+            
+            new_student = s.add_student()
+            student_list.append(new_student)
+            
         elif menue_point == "3":
             print("3) Remove student.")
         
